@@ -1,6 +1,6 @@
 # The Smurfs
 
-We hate the typical "Google Questions" on our solicitation interviews. Fork and submit a pull request instead to show off your skills!
+We hate the typical "Google Questions" on our solicitation interviews. Fork and send us your code instead to show off your skills! (preferably privately! no fun in spoiling the solution for others)
 
 ## If you're the ideal candidate for this job, then you will find this assignment to be no burden at all.
 
