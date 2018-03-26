@@ -5,7 +5,7 @@ We hate the typical "Google Questions" on our solicitation interviews. Fork and 
 ## If you're the ideal candidate for this job, then you will find this assignment to be no burden at all.
 
 This repository contains 9 images of the Smurfs. 
-The assignment is simple: Write a program _**yourself**_ , using C# , that can automatically locate Papa Smurf.
+The assignment is simple: Write a program _**yourself**_ , using C# , that can automatically locate Papa Smurf and visually mark him on the picture.
 
 **External libraries are not allowed!!** It is perfectly possible to get this done using only the .NET framework.
 
